@@ -5,7 +5,7 @@ Get current weather data and instant clothing tips to help you dress smart for t
 
 ---
 
-## ✨ Features
+## Features
 
 - Search for weather in any city  
 - 🌡See current temperature, wind, and sky conditions  
@@ -15,7 +15,7 @@ Get current weather data and instant clothing tips to help you dress smart for t
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **React Native + Expo** – For fast cross-platform development  
 - **TypeScript** – Strong typing for cleaner, safer code  
@@ -24,18 +24,18 @@ Get current weather data and instant clothing tips to help you dress smart for t
 
 ---
 
-## 📸 Screenshots  
+## Screenshots  
 
-![photo_5906849745048029145_y](https://github.com/user-attachments/assets/3437c9ed-fc80-43c5-88e9-eb2c3acf3e91)
-![photo_5906849745048029146_y](https://github.com/user-attachments/assets/04619217-7750-4d56-b116-bec0b964cd30)
-![photo_5906849745048029147_y](https://github.com/user-attachments/assets/4dd6fe8d-627d-4a93-83d9-b587e1ec0b6b)
+<img src="https://github.com/user-attachments/assets/3437c9ed-fc80-43c5-88e9-eb2c3acf3e91" width="300" height="600" />
+<img src="https://github.com/user-attachments/assets/04619217-7750-4d56-b116-bec0b964cd30" width="300" height="600" />
+<img src="https://github.com/user-attachments/assets/4dd6fe8d-627d-4a93-83d9-b587e1ec0b6b" width="300" height="600" />
 
 ---
 
-## 📦 APK
+## APK
 
-Download the app here: [Expo](https://expo.dev/artifacts/eas/g4c9veRfqsyR3mUGstKKHv.apk)  
-![weatherapp-qr](https://github.com/user-attachments/assets/c542ded5-a90b-4ff3-813a-1d1d86e15690)
+Download the app here: [Expo](https://expo.dev/artifacts/eas/g4c9veRfqsyR3mUGstKKHv.apk) 
+<img src="https://github.com/user-attachments/assets/c542ded5-a90b-4ff3-813a-1d1d86e15690" width="200" height="200" />
 
 ---
 

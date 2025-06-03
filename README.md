@@ -8,7 +8,7 @@ Get current weather data and instant clothing tips to help you dress smart for t
 ## Features
 
 - Search for weather in any city  
-- 🌡See current temperature, wind, and sky conditions  
+- See current temperature, wind, and sky conditions  
 - Get personalized clothing tips based on weather  
 - Includes custom weather icons, hand-drawn for this app  
 - Exported as an APK and ready to install on Android
